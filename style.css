@@ -1,0 +1,43 @@
+body  {
+    background: #e8edf5;
+    font-family: inherit;
+}
+
+img{
+    width: 300px;  
+}
+p  {
+    width: 300px;
+}
+
+.btn{
+    color: #000000;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.btn:hover{
+    background: #dbdbdb;
+    text-decoration: underline;
+}
+
+.wrapper {
+    width: 300px;
+    background: white;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.menu__link  {    
+    text-decoration: none;
+    color: #000000;
+    margin-right: 30px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.menu__link:hover {
+    color: #414141;
+    background: #dbdbdb;
+    }
